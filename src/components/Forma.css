@@ -1,0 +1,35 @@
+
+  .form-group{
+    padding:20px;
+    
+  }
+  
+  .btnForma{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    position: center;
+    text-align: center;
+    width:20%;
+    border-radius: 30px;
+  }
+  
+  .dugme1{
+    border-radius: 10px !important;
+    border: solid 2px var(--clr-gold);
+    position: center;
+    background-color:#E8D2A6;
+    color:black;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .dugme1:hover{
+    background-color:var(--clr-gold);
+    color: white;
+  }
+  
+  h2{
+    text-align: center;
+    margin-top: 10px;
+  }
