@@ -9,7 +9,7 @@ import podaci from "./data"
 
 function App() {
 
-  /*const[knjige,setKnjige]= useState(podaci);
+  const[knjige,setKnjige]= useState(podaci);
   const [brojOmiljenih, setBrojOmiljenih] = useState(0);
   const [loading, setLoading] = useState(true)
   function dodajOmiljene(id){
@@ -39,7 +39,7 @@ function App() {
   }
   useEffect(() => {
     vratiKnjige();
-  }, []) */
+  }, []) 
 
   return (
     <BrowserRouter>
